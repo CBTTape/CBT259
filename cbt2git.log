@@ -1,0 +1,17 @@
+2023-08-06 02:33:02.569638 - Initialized conversion of CBT259
+2023-08-06 02:33:02.692281 - Received CBT.V505.FILE259.PDS from FILE259.XMI 
+2023-08-06 02:33:02.693621 - Found COMBO32.bin containing application/octet-stream, moved to PDS/COMBO32
+2023-08-06 02:33:02.694893 - Found DD3270.bin containing application/octet-stream, moved to PDS/DD3270
+2023-08-06 02:33:02.696009 - Found FONT.bin containing application/octet-stream, moved to PDS/FONT
+2023-08-06 02:33:02.697116 - Found INFO3270.bin containing application/octet-stream, moved to PDS/INFO3270
+2023-08-06 02:33:02.698116 - Found LSTBOX32.bin containing application/octet-stream, moved to PDS/LSTBOX32
+2023-08-06 02:33:02.699126 - Found TG.bin containing application/octet-stream, moved to PDS/TG
+2023-08-06 02:33:02.700053 - Found TGETN.bin containing application/octet-stream, moved to PDS/TGETN
+2023-08-06 02:33:02.700909 - Found TGT327D.bin containing application/octet-stream, moved to PDS/TGT327D
+2023-08-06 02:33:02.701840 - Found TPGN.bin containing application/octet-stream, moved to PDS/TPGN
+2023-08-06 02:33:02.702812 - Found TPUTN.bin containing application/octet-stream, moved to PDS/TPUTN
+2023-08-06 02:33:02.703818 - Found TXTPAD32.bin containing application/octet-stream, moved to PDS/TXTPAD32
+2023-08-06 02:33:02.704823 - Found WIDGET32.bin containing application/octet-stream, moved to PDS/WIDGET32
+2023-08-06 02:33:02.705804 - Found WINDOW32.bin containing application/octet-stream, moved to PDS/WINDOW32
+2023-08-06 02:33:02.706951 - Found WIN3270.bin containing application/octet-stream, moved to PDS/WIN3270
+2023-08-06 02:33:02.708147 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
