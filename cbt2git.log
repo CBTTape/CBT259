@@ -1,15 +1,15 @@
-2025-04-15 00:56:21.201240 - Received CBT.V508.FILE259.PDS from FILE259.XMI 
-2025-04-15 00:56:21.203078 - Found COMBO32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/COMBO32
-2025-04-15 00:56:21.203896 - Found DD3270.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/DD3270
-2025-04-15 00:56:21.204590 - Found FONT.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/FONT
-2025-04-15 00:56:21.205399 - Found INFO3270.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/INFO3270
-2025-04-15 00:56:21.206105 - Found LSTBOX32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/LSTBOX32
-2025-04-15 00:56:21.206505 - Found TG.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TG
-2025-04-15 00:56:21.206869 - Found TGETN.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TGETN
-2025-04-15 00:56:21.207211 - Found TGT327D.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TGT327D
-2025-04-15 00:56:21.207556 - Found TPGN.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TPGN
-2025-04-15 00:56:21.207989 - Found TPUTN.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TPUTN
-2025-04-15 00:56:21.208910 - Found TXTPAD32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TXTPAD32
-2025-04-15 00:56:21.209935 - Found WIDGET32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/WIDGET32
-2025-04-15 00:56:21.210976 - Found WINDOW32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/WINDOW32
-2025-04-15 00:56:21.212179 - Found WIN3270.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/WIN3270
+2025-04-15 19:45:39.396506 - Received CBT.V508.FILE259.PDS from FILE259.XMI 
+2025-04-15 19:45:39.398573 - Found COMBO32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/COMBO32
+2025-04-15 19:45:39.399347 - Found DD3270.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/DD3270
+2025-04-15 19:45:39.400071 - Found FONT.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/FONT
+2025-04-15 19:45:39.400907 - Found INFO3270.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/INFO3270
+2025-04-15 19:45:39.401637 - Found LSTBOX32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/LSTBOX32
+2025-04-15 19:45:39.402024 - Found TG.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TG
+2025-04-15 19:45:39.402384 - Found TGETN.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TGETN
+2025-04-15 19:45:39.402759 - Found TGT327D.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TGT327D
+2025-04-15 19:45:39.403120 - Found TPGN.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TPGN
+2025-04-15 19:45:39.403532 - Found TPUTN.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TPUTN
+2025-04-15 19:45:39.404451 - Found TXTPAD32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/TXTPAD32
+2025-04-15 19:45:39.405482 - Found WIDGET32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/WIDGET32
+2025-04-15 19:45:39.406552 - Found WINDOW32.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/WINDOW32
+2025-04-15 19:45:39.407764 - Found WIN3270.bin (application/octet-stream) in CBT.V508.FILE259.PDS, moved to PDS/WIN3270
